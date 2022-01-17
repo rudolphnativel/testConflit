@@ -1,4 +1,8 @@
 "testConflits" 
 "ajout de text" 
 "ajout de text Rudolph" 
+<<<<<<< HEAD
 "modif de JP" 
+=======
+"test du conflit" 
+>>>>>>> d54afcf099bcc364e1ff5457583ee9e708ff98d2
